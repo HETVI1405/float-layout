@@ -1,0 +1,153 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+  
+}
+.nev
+{
+    height: 60px;
+    width: 100%;
+    background-color:#3388ff;
+    color: black;
+   word-spacing: 80px;
+
+}
+.nevi
+{
+    
+    height: 60px;
+    width: 90%;
+    margin:auto;
+
+}
+.nev a
+{
+    text-decoration: none;
+    margin: auto;
+    font-size: 20px;
+    line-height: 60px;
+}
+button
+{
+    border-radius: 10px;
+    width: 20%;
+    padding:10px;
+    float:right;
+    margin:10px;
+}
+input
+{
+    color: white;
+    background-color: black;
+   position: absolute;
+   transform: translate(50% 50%);
+   right: 1%;
+    padding: 10px;
+    margin:10px;
+}
+.home
+{
+    width: 75%;
+    margin:0%;
+    height: 500px;
+    padding: 10px 0px;
+  
+}
+.home img
+{
+    width: 100%;
+}
+.contain
+{
+    color:#1167b1;
+   padding: 10px;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+.episod
+{
+ margin: 8%;  
+ color:#1167b1; 
+ font-size:20px ;
+}
+.center
+{
+    width: 75%;
+}
+
+
+.footer
+{
+    height: 70px;
+    width: 100%;
+    background-color: #3388ff;
+    margin-top: 551px;
+    
+}
+.more
+{
+    position: absolute;
+    transform: translate(-50% -50%);
+    right: 85%;
+    top: 77%;
+}
+.pera
+{
+    height: 500px;
+    width: 65%;
+   
+    position: absolute;
+    transform: translate(-50% -50%);
+    right: 30%;
+    top: 85%;
+  
+}
+
+.footer h1
+{
+    text-align: center;
+    line-height: 80px;
+}
+.side
+{
+    height:1250px;
+    width:25%;
+  margin-bottom: 30px;
+    background-color:#55aaff;
+    position: absolute;
+    transform: translate(-50% -50%);
+    top: 60px;
+    right: 0px;
+    color: black;
+   
+    bottom: 30px;
+}
+ul li
+{
+    color: black;
+}
+.side h1
+{
+    text-align: center;
+    padding: 10px;
+    
+}
+.side a
+{
+    color: white;
+    position: absolute;
+    transform: translate(-50% -50%);
+    top: 60px;
+    left: 50px;
+    right: 20px;
+
+    
+}
+.links
+{
+    position: fixed;
+    
+}
